@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void Sample(){
         Toast.makeText(getApplicationContext(), "test Git", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "test Git", Toast.LENGTH_SHORT).show();
     }
 }
